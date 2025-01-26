@@ -1,4 +1,5 @@
-PROJECTs (.Net)	
+PROJECT (.Net)	
+
 •	Project : [Hospital Manangement System]	  
 
 ◦ Tools Use : [C#.NET, Microsoft SQL]   
